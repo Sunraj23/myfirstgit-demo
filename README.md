@@ -1,3 +1,3 @@
 # myfirstgit-demo
 This is my first repository
-author - Sunraj Uttekar
+Author - Sunraj Uttekar
